@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a><a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
-  <a href="https://github.com/ishandutta2007/Awesome-AI-Driven-Security-Operations-Hub/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-AI-Driven-Security-Operations-Hub?style=social" alt="GitHub stars" /></a>
+  <a href="https://github.com/ishandutta2007/Awesome-AI-Driven-Security-Operations-Hub/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-AI-Driven-Security-Operations-Hub?style=social" alt="GitHub_Stars" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-AI-Driven-Security-Operations-Hub/network/members"><img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-AI-Driven-Security-Operations-Hub?style=social" alt="GitHub forks" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-AI-Driven-Security-Operations-Hub/blob/main/LICENSE"><img src="https://img.shields.io/badge/License-MIT-green.svg?style=flat-square" alt="License: MIT" /></a>
   <a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
@@ -76,9 +76,9 @@ Enterprise-grade AI security platforms providing fully managed agentic triage, a
 
 Production-grade, self-hostable tools, SIEM/EDR platforms, behavioral analytics engines, and AI-native agentic SOC architectures.
 
-> *Sorted descending by GitHub Star Count.*
+> *Sorted descending by GitHub Stars_Count.*
 
-| Repository | GitHub Stars Badge | Core Tech Stack | License | Key AI & Security Features |
+| Repository | GitHub_Stars_Badge | Core Tech Stack | License | Key AI & Security Features |
 | :--- | :--- | :--- | :--- | :--- |
 | [**Wazuh**](https://github.com/wazuh/wazuh) | [![Stars](https://img.shields.io/github/stars/wazuh/wazuh?style=social&color=white)](https://github.com/wazuh/wazuh/stargazers) | C, Python, OpenSearch | GPL-2.0 | Comprehensive open-source SIEM/XDR with endpoint security agents, regulatory compliance monitoring, vulnerability detection, and active automated response. |
 | [**CrowdSec**](https://github.com/crowdsecurity/crowdsec) | [![Stars](https://img.shields.io/github/stars/crowdsecurity/crowdsec?style=social&color=white)](https://github.com/crowdsecurity/crowdsec/stargazers) | Go, C | MIT | Collaborative, lightweight intrusion prevention engine that analyzes local behavior and leverages global crowd-sourced threat intelligence networks to block attacks. |
@@ -105,7 +105,7 @@ Contributions, reviews, and corrections are warmly welcomed! 💡
 2. 🌿 **Create a Feature Branch** (`git checkout -b feature/add-new-soc-tool`).
 3. 📝 **Add or Update Entries**:
    - For SaaS products: include verified starting tier pricing, specific free tier/trial limits, and company size.
-   - For Open-Source projects: include the GitHub stars social badge linked to stargazers, core tech stack, license, and actionable features.
+   - For Open-Source projects: include the GitHub_Stars social badge linked to stargazers, core tech stack, license, and actionable features.
 4. 🚀 **Commit your Changes** (`git commit -m "feat: add NewTool to Open-Source section"`).
 5. 📤 **Push to your Branch** (`git push origin feature/add-new-soc-tool`).
 6. 🎯 **Open a Pull Request** with a concise description of your additions.
